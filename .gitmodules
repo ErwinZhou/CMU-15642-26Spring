@@ -1,0 +1,20 @@
+[submodule "ad"]
+	path = ad
+	url = git@github.com:ErwinZhou/CMU-15642-26Spring-AD.git
+	branch = main
+[submodule "dt"]
+	path = dt
+	url = git@github.com:ErwinZhou/CMU-15642-26Spring-DT.git
+	branch = p2
+[submodule "sd-bench"]
+	path = sd-bench
+	url = git@github.com:stormckey/sd-bench.git
+	branch = main
+[submodule "ko"]
+	path = ko
+	url = git@github.com:ErwinZhou/CMU-15642-26Spring-KO.git
+	branch = main
+[submodule "transformers"]
+	path = transformers
+	url = git@github.com:ErwinZhou/transformers.git
+	branch = tree-spec-decoding
